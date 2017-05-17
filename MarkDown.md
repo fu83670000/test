@@ -16,4 +16,24 @@
 
 安装后，在NotePad++中菜单 `插件` 下会出现**NppMarkDown**选项。
 
-## 另类方式
+## 另类预览方式
+
+该方式是通过**pandoc**将MarkDown文件转换为html文件，然后使用**Preview HTML**插件来完成预览。
+
+需要安装**PanDoc**及**Preview HTML**插件，然后
+
+1、设置转换规则
+
+```
+; Content of Filter.ini file
+[Markdown]
+Extension=.md
+Command=pandoc --template=tpl.html5 --highlight-style=tango --mathjax="http://cdn.bootcss.com/mathjax/2.5.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML" "%1"
+```
+
+2、设置刷新间隔
+
+```
+[Autorefresh]
+Interval=0
+```
