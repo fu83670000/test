@@ -14,7 +14,7 @@
 
 | Step 1 | Step 2 |
 |:----:|:------:|
-| ![Git1][step1] | ![Git2][step2] |
+| ![Git1](step1.png) | ![Git2](step2.png) |
 | Step 3 | Step 4 |
-| ![Git3][step3] | ![Git4](step4.png) |
+| ![Git3](step3.png) | ![Git4](step4.png) |
 
