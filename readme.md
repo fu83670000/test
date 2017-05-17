@@ -12,5 +12,9 @@
 在简单方式下，填写远端项目url地址，然后通过页面认证完成提交。
 
 
-
+| Step 1 | Step 2 |
+|:----:|:------:|
+| ![Git1][step1] | ![Git2][step2] |
+| Step 3 | Step 4 |
+| ![Git3][step3] | ![Git4](step4.png) |
 
