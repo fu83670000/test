@@ -10,5 +10,10 @@
 
 
 ## MarkDown 预览
+安装 NppMarkDown预览插件，项目地址[NppMarkdown](https://github.com/gclxry/NppMarkdown) ，编译后的插件[百度网盘](http://pan.baidu.com/s/1c08pOjQ) 
+
+将下载的NppMarkdown.dll 插件拷贝至 NotePad 安装目录下的 `plugins` 中即可。
+
+安装后，在NotePad++中菜单 `插件` 下会出现**NppMarkDown**选项。
 
 ## 另类方式
