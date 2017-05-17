@@ -22,3 +22,4 @@
 | Step 3 | Step 4 |
 | ![Git3](step3.png) | ![Git4](step4.png) |
 
+**提交前已完成项目克隆或版本库的建立**
