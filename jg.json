@@ -64,6 +64,11 @@
             "id": "12",
             "name": "Useit知识库",
 			"url":"http://www.useit.com.cn/"
+        },
+        {
+            "id": "13",
+            "name": "新浪",
+			"url":"http://www.sina.com.cn/"
         }										
     ]
 }
