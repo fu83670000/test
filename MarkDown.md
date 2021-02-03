@@ -37,3 +37,10 @@ Command=pandoc --template=tpl.html5 --highlight-style=tango --mathjax="http://cd
 [Autorefresh]
 Interval=0
 ```
+
+```plantuml
+@startuml
+scale 3
+Amber -> Hsing : test
+@enduml
+```
